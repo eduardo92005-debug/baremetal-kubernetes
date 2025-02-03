@@ -1,0 +1,4 @@
+ssh.txt
+terraform/test-cluster-winov/.terraform/
+terraform.*
+.terraform.*
